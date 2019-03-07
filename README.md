@@ -1,3 +1,3 @@
 # DataCamp
-DataCamp projects completed by Tania Savitri
+DataCamp: Python projects
 2019
